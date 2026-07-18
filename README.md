@@ -1,163 +1,240 @@
-# 📘 Manual de Engenharia de Dados
+# 📚 Manual de Engenharia de Dados
 
-## Do Problema de Negócio ao Produto de Dados
+<p align="center">
 
-> *"Toda grande solução de dados começa muito antes da primeira linha de código."*
+### Da compreensão do problema à entrega de um produto de dados.
 
----
-
-# 📖 Sobre este projeto
-
-Grande parte dos projetos de Engenharia de Dados publicados no GitHub apresenta apenas o resultado final: pipelines, consultas SQL, modelos de dados e dashboards.
-
-Na prática, porém, um projeto começa muito antes da tecnologia.
-
-Ele nasce da compreensão do negócio, da identificação de problemas, do levantamento de requisitos e da tomada de decisões que orientarão toda a construção da solução.
-
-Este manual foi criado para mostrar exatamente essa jornada.
-
-Ao longo dos capítulos, será utilizado um estudo de caso fictício para demonstrar como um Engenheiro de Dados transforma um problema de negócio em um produto de dados confiável.
+Um guia prático para entender **como um Engenheiro de Dados pensa**, toma decisões e constrói soluções antes mesmo de escrever a primeira linha de código.
 
 ---
 
-# 🎯 Objetivos
+⭐ Se este projeto agregar valor aos seus estudos, considere deixar uma **Star** no repositório.
 
-- Demonstrar como projetos de Engenharia de Dados realmente começam.
-- Explicar a importância do entendimento do negócio.
-- Ensinar como levantar requisitos.
-- Mostrar como decisões técnicas são tomadas.
-- Apresentar conceitos utilizados em projetos reais.
-- Conectar negócio, arquitetura e implementação.
+</p>
 
 ---
 
-# 📚 Estrutura do Manual
+# 🎯 Objetivo
 
-## 📘 Parte I — Fundamentos
+Este manual foi criado para mostrar que **Engenharia de Dados não começa com SQL**.
 
-- [Capítulo 1 — O Verdadeiro Papel do Engenheiro de Dados](capitulos/01-o-verdadeiro-papel-do-engenheiro-de-dados.md)
+Antes de qualquer tecnologia existe um problema de negócio que precisa ser compreendido.
 
-- [Capítulo 2 — Todo Projeto Começa com um Problema](capitulos/02-todo-projeto-comeca-com-um-problema.md)
-
-- [Capítulo 3 — Entendendo o Negócio](capitulos/03-entendendo-o-negocio.md)
+Ao longo deste material você percorrerá toda a jornada de um projeto de Engenharia de Dados, desde a descoberta do problema até a entrega de um produto de dados confiável.
 
 ---
 
-## 🔎 Parte II — Descoberta
-
-- [Capítulo 4 — Stakeholders](capitulos/04-stakeholders.md)
-
-- [Capítulo 5 — Fazendo as Perguntas Certas](capitulos/05-fazendo-as-perguntas-certas.md)
-
-- [Capítulo 6 — Levantamento de Requisitos](capitulos/06-levantamento-de-requisitos.md)
-
-- [Capítulo 7 — Fontes de Dados](capitulos/07-fontes-de-dados.md)
-
-- [Capítulo 8 — Regras de Negócio](capitulos/08-regras-de-negocio.md)
-
----
-
-## 🏗 Parte III — Planejamento
-
-- [Capítulo 9 — Decisões de Engenharia](capitulos/09-decisoes-de-engenharia.md)
-
-- [Capítulo 10 — Trade-offs](capitulos/10-trade-offs.md)
-
-- [Capítulo 11 — Modelagem de Dados](capitulos/11-modelagem-de-dados.md)
-
-- [Capítulo 12 — Escolhendo a Arquitetura](capitulos/12-escolhendo-a-arquitetura.md)
-
----
-
-## ⚙️ Parte IV — Construção
-
-- [Capítulo 13 — Qualidade dos Dados](capitulos/13-qualidade-dos-dados.md)
-
-- [Capítulo 14 — Planejamento da Pipeline](capitulos/14-planejamento-da-pipeline.md)
-
-- [Capítulo 15 — Agora Sim, o SQL](capitulos/15-agora-sim-o-sql.md)
-
----
-
-## 🚀 Parte V — Encerramento
-
-- [Capítulo 16 — Do Problema ao Produto de Dados](capitulos/16-do-problema-ao-produto-de-dados.md)
-
----
-
-# 🧭 A Jornada de um Projeto de Dados
+# 🧭 A Jornada da Engenharia de Dados
 
 ```text
-Problema de Negócio
-        │
-        ▼
-Entendimento do Negócio
-        │
-        ▼
-Stakeholders
-        │
-        ▼
-Perguntas
-        │
-        ▼
-Requisitos
-        │
-        ▼
-Fontes de Dados
-        │
-        ▼
-Regras de Negócio
-        │
-        ▼
-Arquitetura
-        │
-        ▼
-Modelagem
-        │
-        ▼
-Qualidade
-        │
-        ▼
-Pipeline
-        │
-        ▼
-SQL
-        │
-        ▼
+           PROBLEMA
+               │
+               ▼
+     Entendimento do Negócio
+               │
+               ▼
+        Stakeholders
+               │
+               ▼
+    Levantamento de Requisitos
+               │
+               ▼
+        Fontes de Dados
+               │
+               ▼
+      Regras de Negócio
+               │
+               ▼
+     Decisões de Engenharia
+               │
+               ▼
+          Trade-offs
+               │
+               ▼
+      Modelagem de Dados
+               │
+               ▼
+ Arquitetura da Solução
+               │
+               ▼
+ Qualidade dos Dados
+               │
+               ▼
+ Planejamento da Pipeline
+               │
+               ▼
+             SQL
+               │
+               ▼
+     PRODUTO DE DADOS
+```
+
+---
+
+# 📖 Estrutura do Manual
+
+## 🟦 Parte I • Fundamentos
+
+| Capítulo | Conteúdo |
+|----------|----------|
+| 📘 [Capítulo 1](capitulos/01-o-verdadeiro-papel-do-engenheiro-de-dados.md) | O Verdadeiro Papel do Engenheiro de Dados |
+| 📘 [Capítulo 2](capitulos/02-todo-projeto-comeca-com-um-problema.md) | Todo Projeto Começa com um Problema |
+| 📘 [Capítulo 3](capitulos/03-entendendo-o-negocio.md) | Entendendo o Negócio |
+
+---
+
+## 🔎 Parte II • Descoberta
+
+| Capítulo | Conteúdo |
+|----------|----------|
+| 📘 [Capítulo 4](capitulos/04-stakeholders.md) | Stakeholders |
+| 📘 [Capítulo 5](capitulos/05-fazendo-as-perguntas-certas.md) | Fazendo as Perguntas Certas |
+| 📘 [Capítulo 6](capitulos/06-levantamento-de-requisitos.md) | Levantamento de Requisitos |
+| 📘 [Capítulo 7](capitulos/07-fontes-de-dados.md) | Fontes de Dados |
+| 📘 [Capítulo 8](capitulos/08-regras-de-negocio.md) | Regras de Negócio |
+
+---
+
+## 🏗 Parte III • Planejamento
+
+| Capítulo | Conteúdo |
+|----------|----------|
+| 📘 [Capítulo 9](capitulos/09-decisoes-de-engenharia.md) | Decisões de Engenharia |
+| 📘 [Capítulo 10](capitulos/10-trade-offs.md) | Trade-offs |
+| 📘 [Capítulo 11](capitulos/11-modelagem-de-dados.md) | Modelagem de Dados |
+| 📘 [Capítulo 12](capitulos/12-escolhendo-a-arquitetura.md) | Escolhendo a Arquitetura |
+
+---
+
+## ⚙️ Parte IV • Construção
+
+| Capítulo | Conteúdo |
+|----------|----------|
+| 📘 [Capítulo 13](capitulos/13-qualidade-dos-dados.md) | Qualidade dos Dados |
+| 📘 [Capítulo 14](capitulos/14-planejamento-da-pipeline.md) | Planejamento da Pipeline |
+| 📘 [Capítulo 15](capitulos/15-agora-sim-o-sql.md) | Agora Sim, o SQL |
+
+---
+
+## 🚀 Parte V • Conclusão
+
+| Capítulo | Conteúdo |
+|----------|----------|
+| 📘 [Capítulo 16](capitulos/16-do-problema-ao-produto-de-dados.md) | Do Problema ao Produto de Dados |
+| 📘 [Capítulo 17](capitulos/17-o-engenheiro-de-dados-do-futuro.md) | O Engenheiro de Dados do Futuro |
+
+---
+
+# 💡 O que você encontrará neste manual
+
+✔ Como um Engenheiro de Dados analisa um problema
+
+✔ Como entender o negócio antes da tecnologia
+
+✔ Como levantar requisitos
+
+✔ Como identificar stakeholders
+
+✔ Como escolher uma arquitetura
+
+✔ Como tomar decisões técnicas
+
+✔ Como avaliar trade-offs
+
+✔ Como modelar dados
+
+✔ Como planejar pipelines
+
+✔ Como garantir qualidade dos dados
+
+✔ O papel do SQL dentro de um projeto
+
+✔ Como transformar dados em valor para o negócio
+
+---
+
+# 👨‍💻 Para quem é este material?
+
+Este manual foi pensado para:
+
+- Estudantes de Engenharia de Dados
+- Analistas de Dados
+- Engenheiros de Dados
+- Arquitetos de Dados
+- Cientistas de Dados
+- Profissionais em transição de carreira
+- Pessoas que desejam entender como projetos de dados realmente começam
+
+---
+
+# 🚀 Filosofia deste projeto
+
+> **Problemas vêm antes da tecnologia.**
+
+> **Dados só têm valor quando ajudam alguém a tomar uma decisão.**
+
+> **Perguntar é tão importante quanto programar.**
+
+> **Uma boa arquitetura nasce de um bom entendimento do negócio.**
+
+> **SQL é uma ferramenta. Pensamento crítico é o diferencial.**
+
+---
+
+# 📚 Organização do conhecimento
+
+```text
+Fundamentos
+      │
+      ▼
+Descoberta
+      │
+      ▼
+Planejamento
+      │
+      ▼
+Construção
+      │
+      ▼
+Entrega
+      │
+      ▼
 Produto de Dados
 ```
 
 ---
 
-# 💡 Filosofia do Manual
+# ⭐ Contribuições
 
-Antes de qualquer tecnologia, existe um problema.
+Encontrou algum erro?
 
-Antes de qualquer pipeline, existe uma necessidade.
+Tem alguma sugestão?
 
-Antes de qualquer consulta SQL, existe uma pergunta de negócio.
-
-Tecnologias evoluem.
-
-Ferramentas mudam.
-
-Mas compreender o negócio continuará sendo a habilidade mais importante de qualquer Engenheiro de Dados.
-
----
-
-# 🤝 Contribuições
-
-Este manual está em constante evolução.
-
-Caso encontre oportunidades de melhoria ou queira contribuir com novos exemplos e discussões, fique à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
+Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
 
 Toda contribuição é bem-vinda.
 
 ---
 
-# 👨‍💻 Autor
+# 👤 Autor
 
 **Reginaldo Rocha**
+
+Engenheiro de Cloud | Engenheiro de Dados
+
+Compartilhando conhecimento para fortalecer a comunidade de dados.
+
+---
+
+<p align="center">
+
+### "A Engenharia de Dados não começa com código.
+
+### Ela começa com entendimento."
+
+⭐ Obrigado por visitar este projeto!
+
+</p>
 
 Engenheiro de Dados, apaixonado por arquitetura de dados, SQL, modelagem, engenharia de dados e soluções analíticas.
 
