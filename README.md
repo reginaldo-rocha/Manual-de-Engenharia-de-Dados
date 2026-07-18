@@ -204,16 +204,6 @@ Produto de Dados
 
 ---
 
-# ⭐ Contribuições
-
-Encontrou algum erro?
-
-Tem alguma sugestão?
-
-Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
-
-Toda contribuição é bem-vinda.
-
 ---
 
 # 👤 Autor
