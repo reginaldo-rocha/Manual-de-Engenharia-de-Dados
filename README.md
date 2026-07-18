@@ -159,6 +159,6 @@ Toda contribuição é bem-vinda.
 
 **Reginaldo Rocha**
 
-Engenheiro de Cloud em transição para Engenharia de Dados, apaixonado por arquitetura de dados, SQL, modelagem, engenharia de dados e soluções analíticas.
+Engenheiro de Dados, apaixonado por arquitetura de dados, SQL, modelagem, engenharia de dados e soluções analíticas.
 
 Este projeto foi criado para compartilhar conhecimento, documentar boas práticas e mostrar como projetos de Engenharia de Dados são desenvolvidos desde a identificação de um problema de negócio até a entrega de um produto de dados.
