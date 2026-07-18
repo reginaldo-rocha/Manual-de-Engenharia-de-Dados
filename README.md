@@ -1,5 +1,8 @@
 # 📚 Manual de Engenharia de Dados
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e6645a2-dbe2-466f-a19c-e704b35d0e31" />
+
+
 <p align="center">
 
 ### Da compreensão do problema à entrega de um produto de dados.
