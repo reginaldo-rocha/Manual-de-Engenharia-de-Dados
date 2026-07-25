@@ -2,6 +2,9 @@
 
 # Escolhendo a Arquitetura
 
+<img width="182" height="218" alt="image" src="https://github.com/user-attachments/assets/81247b7c-52e1-4774-baee-b371f464931e" />
+
+
 ## Introdução
 
 A arquitetura define como os dados serão coletados, armazenados, processados e disponibilizados.
