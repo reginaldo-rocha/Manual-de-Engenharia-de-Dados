@@ -57,6 +57,3 @@ Uma solução bem planejada reduz custos, facilita a manutenção e aumenta a co
 
 ---
 
-⬅️ **Capítulo anterior:** [Regras de Negócio](08-regras-de-negocio.md)
-
-➡️ **Próximo capítulo:** [Trade-offs](10-trade-offs.md)
