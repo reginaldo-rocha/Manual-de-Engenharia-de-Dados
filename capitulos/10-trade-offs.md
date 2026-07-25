@@ -2,6 +2,9 @@
 
 # Trade-offs
 
+<img width="170" height="224" alt="image" src="https://github.com/user-attachments/assets/f647f4db-4ec1-47ee-a8b3-63172a34c393" />
+
+
 ## Introdução
 
 Na Engenharia de Dados, dificilmente uma solução será perfeita em todos os aspectos. Toda decisão técnica envolve concessões, conhecidas como **trade-offs**.
