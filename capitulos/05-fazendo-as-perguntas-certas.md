@@ -2,6 +2,9 @@
 
 # Fazendo as Perguntas Certas
 
+<img width="189" height="225" alt="image" src="https://github.com/user-attachments/assets/c3ece156-2702-4fb3-b400-0fab6ddd5f20" />
+
+
 ## Introdução
 
 Uma das habilidades mais importantes de um Engenheiro de Dados não está relacionada à programação, ao SQL ou às ferramentas utilizadas no dia a dia.
