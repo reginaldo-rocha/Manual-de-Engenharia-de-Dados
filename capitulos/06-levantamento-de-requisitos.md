@@ -2,6 +2,9 @@
 
 # Levantamento de Requisitos
 
+<img width="170" height="241" alt="image" src="https://github.com/user-attachments/assets/a7c1cc74-345c-45b7-91b6-c7bab9bd62f5" />
+
+
 ## Introdução
 
 Depois de compreender o problema de negócio, conhecer os stakeholders e fazer as perguntas certas, chega o momento de organizar todas essas informações.
