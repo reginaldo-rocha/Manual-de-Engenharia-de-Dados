@@ -2,6 +2,9 @@
 
 # Planejamento da Pipeline
 
+<img width="207" height="221" alt="image" src="https://github.com/user-attachments/assets/6ba292f6-84eb-4e04-ac6d-0e5010d304fd" />
+
+
 ## Introdução
 
 Antes de construir uma pipeline, é necessário planejar como os dados irão percorrer cada etapa do processo.
