@@ -46,7 +46,7 @@ Essas decisões possuem muito mais impacto do que simplesmente escolher uma tecn
 
 ---
 
- Estudo de Caso
+ESTUDO DE CASO
 
 Imagine a empresa fictícia **CloudOffice**, uma plataforma de assinaturas de softwares para pequenas empresas.
 
