@@ -2,6 +2,9 @@
 
 # Agora Sim, o SQL
 
+<img width="224" height="219" alt="image" src="https://github.com/user-attachments/assets/146e02a8-dfda-494e-b275-cac50c7a567c" />
+
+
 ## Introdução
 
 Após compreender o negócio, definir requisitos, conhecer as fontes de dados e planejar a solução, chega o momento da implementação.
