@@ -2,6 +2,9 @@
 
 # Qualidade dos Dados
 
+<img width="201" height="208" alt="image" src="https://github.com/user-attachments/assets/da45ce87-1268-474d-ae23-1e8fbbb76b2c" />
+
+
 ## Introdução
 
 Dados confiáveis são fundamentais para qualquer tomada de decisão.
