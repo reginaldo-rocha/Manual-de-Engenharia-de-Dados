@@ -2,6 +2,9 @@
 
 # Decisões de Engenharia
 
+<img width="163" height="231" alt="image" src="https://github.com/user-attachments/assets/614e2eae-d2fa-4f12-82c2-4461f119a5e9" />
+
+
 ## Introdução
 
 Após compreender o problema de negócio, identificar os stakeholders, levantar os requisitos, conhecer as fontes de dados e entender as regras de negócio, chega o momento de tomar decisões técnicas.
