@@ -58,9 +58,7 @@ Exemplos:
 
 Embora não estejam diretamente ligados às funcionalidades, esses requisitos são fundamentais para a qualidade da solução.
 
----
-
-## Estudo de Caso
+# 🧩 Estudo de Caso
 
 Na **CloudOffice**, após as reuniões com as áreas envolvidas, foram definidos alguns requisitos.
 
@@ -105,6 +103,4 @@ Agora que sabemos o que deve ser construído, é hora de descobrir de onde virã
 
 ---
 
-⬅️ **Capítulo anterior:** [Fazendo as Perguntas Certas](05-fazendo-as-perguntas-certas.md)
 
-➡️ **Próximo capítulo:** [Fontes de Dados](07-fontes-de-dados.md)
