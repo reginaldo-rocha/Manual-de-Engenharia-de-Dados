@@ -2,6 +2,9 @@
 
 # Todo Projeto Começa com um Problema
 
+<img width="174" height="232" alt="image" src="https://github.com/user-attachments/assets/296bfcec-3390-48fd-b74d-cf386705c343" />
+
+
 ## Introdução
 
 Toda solução de Engenharia de Dados nasce de uma necessidade do negócio.
