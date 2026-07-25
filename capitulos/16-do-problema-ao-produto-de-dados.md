@@ -2,6 +2,9 @@
 
 # Do Problema ao Produto de Dados
 
+<img width="202" height="221" alt="image" src="https://github.com/user-attachments/assets/a796370b-c9be-4216-945c-bbbf2fb77403" />
+
+
 ## Introdução
 
 Toda solução de Engenharia de Dados começa com um problema de negócio e termina com um produto de dados capaz de gerar valor para a organização.
