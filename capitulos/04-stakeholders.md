@@ -57,9 +57,9 @@ Conhecer os stakeholders permite:
 - Melhorar a comunicação entre equipes.
 - Entregar maior valor ao negócio.
 
----
 
-estudo-de-caso.md
+
+# 🧩 Estudo de Caso
 
 Na **CloudOffice**, diferentes áreas participam do projeto.
 
