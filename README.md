@@ -20,9 +20,11 @@ Um guia prático para entender **como um Engenheiro de Dados pensa**, toma decis
 
 # 🎯 Objetivo
 
-Este manual foi criado para mostrar que **Engenharia de Dados não começa com SQL**.
+Este projeto nasceu para compartilhar conhecimento sobre Engenharia de Dados.
 
-Antes de qualquer tecnologia existe um problema de negócio que precisa ser compreendido.
+Ele não pretende ser um manual definitivo.
+
+A ideia é evoluir continuamente com sugestões da comunidade, novas tecnologias e experiências do mercado.
 
 Ao longo deste material você percorrerá toda a jornada de um projeto de Engenharia de Dados, desde a descoberta do problema até a entrega de um produto de dados confiável.
 
