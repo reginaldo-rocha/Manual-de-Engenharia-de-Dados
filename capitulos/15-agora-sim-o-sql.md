@@ -37,6 +37,4 @@ Quando utilizado no momento certo, torna-se uma poderosa ferramenta para entrega
 
 ---
 
-⬅️ **Capítulo anterior:** [Planejamento da Pipeline](14-planejamento-da-pipeline.md)
 
-➡️ **Próximo capítulo:** [Do Problema ao Produto de Dados](16-do-problema-ao-produto-de-dados.md)
