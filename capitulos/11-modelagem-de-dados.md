@@ -2,6 +2,9 @@
 
 # Modelagem de Dados
 
+<img width="178" height="232" alt="image" src="https://github.com/user-attachments/assets/d38d1d09-40e7-479d-91c2-60cf780dd002" />
+
+
 ## Introdução
 
 A modelagem de dados é o processo de organizar as informações para que possam ser armazenadas, consultadas e compreendidas de forma eficiente.
