@@ -36,7 +36,7 @@ Somente após compreender essa resposta é possível definir quais tecnologias f
 
 ---
 
-## Estudo de Caso
+ESTUDO DE CASO
 
 Imagine novamente a empresa fictícia **CloudOffice**.
 
@@ -87,6 +87,4 @@ Nos próximos capítulos veremos como entender o negócio, identificar os stakeh
 
 ---
 
-⬅️ **Capítulo anterior:** [O Verdadeiro Papel do Engenheiro de Dados](01-o-verdadeiro-papel-do-engenheiro-de-dados.md)
 
-➡️ **Próximo capítulo:** [Entendendo o Negócio](03-entendendo-o-negocio.md)
