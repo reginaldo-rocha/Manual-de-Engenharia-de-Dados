@@ -59,7 +59,7 @@ Conhecer os stakeholders permite:
 
 ---
 
-## Estudo de Caso
+# Estudo de Caso
 
 Na **CloudOffice**, diferentes áreas participam do projeto.
 
