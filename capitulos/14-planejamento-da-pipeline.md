@@ -46,6 +46,4 @@ Uma pipeline bem planejada garante que os dados cheguem ao destino correto, com 
 
 ---
 
-⬅️ **Capítulo anterior:** [Qualidade dos Dados](13-qualidade-dos-dados.md)
 
-➡️ **Próximo capítulo:** [Agora Sim, o SQL](15-agora-sim-o-sql.md)
