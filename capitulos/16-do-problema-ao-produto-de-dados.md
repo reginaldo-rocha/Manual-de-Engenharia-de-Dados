@@ -55,6 +55,4 @@ Este manual representa essa jornada: do entendimento do problema à entrega de u
 
 ---
 
-⬅️ **Capítulo anterior:** [Agora Sim, o SQL](15-agora-sim-o-sql.md)
 
-🏠 **Voltar para o README** → [Manual de Engenharia de Dados](../README.md)
