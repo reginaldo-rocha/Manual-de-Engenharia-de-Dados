@@ -1,13 +1,7 @@
 # 📚 Manual de Engenharia de Dados
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e6645a2-dbe2-466f-a19c-e704b35d0e31" />
-## 🎯 Objetivo
 
-Este projeto nasceu para compartilhar conhecimento sobre Engenharia de Dados.
-
-Ele não pretende ser um manual definitivo.
-
-A ideia é evoluir continuamente com sugestões da comunidade, novas tecnologias e experiências do mercado.
 
 
 <p align="center">
