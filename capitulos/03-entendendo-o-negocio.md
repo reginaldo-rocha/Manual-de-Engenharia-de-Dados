@@ -57,8 +57,7 @@ Essas respostas orientarão toda a arquitetura da solução.
 
 ---
 
-## Estudo de Caso
-
+ESTUDO DE CASO
 Voltando ao exemplo da **CloudOffice**, sabemos apenas que a empresa perdeu clientes.
 
 Mas isso não é suficiente.
@@ -103,6 +102,4 @@ No próximo capítulo veremos quem são as pessoas envolvidas no projeto e como 
 
 ---
 
-⬅️ **Capítulo anterior:** [Todo Projeto Começa com um Problema](02-todo-projeto-comeca-com-um-problema.md)
 
-➡️ **Próximo capítulo:** [Stakeholders](04-stakeholders.md)
