@@ -115,6 +115,4 @@ No próximo capítulo veremos como transformar essas necessidades em perguntas c
 
 ---
 
-⬅️ **Capítulo anterior:** [Entendendo o Negócio](03-entendendo-o-negocio.md)
 
-➡️ **Próximo capítulo:** [Fazendo as Perguntas Certas](05-fazendo-as-perguntas-certas.md)
