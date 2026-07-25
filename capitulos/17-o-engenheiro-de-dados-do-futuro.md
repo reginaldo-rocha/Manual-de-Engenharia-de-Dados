@@ -97,6 +97,4 @@ Ela começa com a vontade de compreender.
 
 ---
 
-⬅️ **Capítulo anterior:** [Do Problema ao Produto de Dados](16-do-problema-ao-produto-de-dados.md)
 
-🏠 **Voltar para o README** → [Manual de Engenharia de Dados](../README.md)
