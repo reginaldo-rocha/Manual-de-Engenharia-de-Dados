@@ -72,9 +72,7 @@ Essa resposta influencia diretamente a arquitetura da solução.
 
 Quanto maior a qualidade da origem, menor será o esforço de tratamento posteriormente.
 
----
-
-## Estudo de Caso
+# 🧩 Estudo de Caso
 
 Na **CloudOffice**, o objetivo é entender por que os clientes estão cancelando suas assinaturas.
 
@@ -158,6 +156,4 @@ No próximo capítulo veremos como as regras de negócio influenciam a interpret
 
 ---
 
-⬅️ **Capítulo anterior:** [Levantamento de Requisitos](06-levantamento-de-requisitos.md)
 
-➡️ **Próximo capítulo:** [Regras de Negócio](08-regras-de-negocio.md)
