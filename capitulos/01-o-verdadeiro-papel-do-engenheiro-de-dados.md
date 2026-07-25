@@ -2,6 +2,9 @@
 
 # O Verdadeiro Papel do Engenheiro de Dados
 
+<img width="188" height="231" alt="image" src="https://github.com/user-attachments/assets/27a1d4e4-8184-474c-9df9-17b0ec085299" />
+
+
 ## Introdução
 
 Quando pensamos em Engenharia de Dados, é comum imaginar consultas SQL, pipelines, Data Lakes e plataformas em nuvem. Embora essas tecnologias façam parte da rotina da profissão, elas representam apenas uma parte do trabalho.
