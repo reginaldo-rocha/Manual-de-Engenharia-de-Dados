@@ -46,7 +46,7 @@ Essas decisões possuem muito mais impacto do que simplesmente escolher uma tecn
 
 ---
 
-## Estudo de Caso
+ Estudo de Caso
 
 Imagine a empresa fictícia **CloudOffice**, uma plataforma de assinaturas de softwares para pequenas empresas.
 
@@ -75,6 +75,4 @@ Esse será exatamente o caminho percorrido ao longo deste manual.
 
 ---
 
-⬅️ **Início do Manual**
 
-➡️ **Próximo capítulo:** [Todo Projeto Começa com um Problema](02-todo-projeto-comeca-com-um-problema.md)
