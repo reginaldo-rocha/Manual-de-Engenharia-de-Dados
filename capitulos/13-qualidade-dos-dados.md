@@ -52,6 +52,4 @@ A confiança nos dados depende diretamente da qualidade com que eles são coleta
 
 ---
 
-⬅️ **Capítulo anterior:** [Escolhendo a Arquitetura](12-escolhendo-a-arquitetura.md)
 
-➡️ **Próximo capítulo:** [Planejamento da Pipeline](14-planejamento-da-pipeline.md)
