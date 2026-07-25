@@ -2,6 +2,9 @@
 
 # O Engenheiro de Dados do Futuro
 
+<img width="244" height="218" alt="image" src="https://github.com/user-attachments/assets/0c0f4b2c-b909-4acd-9ebc-95901b2f5e15" />
+
+
 ## Introdução
 
 Se você chegou até aqui, provavelmente percebeu que este manual falou pouco sobre ferramentas e muito sobre pessoas, problemas e decisões.
