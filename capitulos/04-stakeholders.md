@@ -2,6 +2,9 @@
 
 # Stakeholders
 
+<img width="170" height="231" alt="image" src="https://github.com/user-attachments/assets/222daf1a-3b88-44cc-8f15-c8c5c4f8974c" />
+
+
 ## Introdução
 
 Nenhum projeto de Engenharia de Dados é desenvolvido para o próprio Engenheiro de Dados.
