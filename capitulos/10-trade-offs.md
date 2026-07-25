@@ -53,6 +53,4 @@ Compreender que não existe uma solução perfeita permite tomar decisões mais 
 
 ---
 
-⬅️ **Capítulo anterior:** [Decisões de Engenharia](09-decisoes-de-engenharia.md)
 
-➡️ **Próximo capítulo:** [Modelagem de Dados](11-modelagem-de-dados.md)
