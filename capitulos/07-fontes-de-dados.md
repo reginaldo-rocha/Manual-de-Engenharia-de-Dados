@@ -2,6 +2,9 @@
 
 # Fontes de Dados
 
+<img width="195" height="221" alt="image" src="https://github.com/user-attachments/assets/c5a61552-51e3-4746-aff9-40ded244e4d0" />
+
+
 ## Introdução
 
 Depois de compreender o problema de negócio e levantar os requisitos da solução, chega o momento de identificar uma das partes mais importantes de qualquer projeto de Engenharia de Dados: as fontes de dados.
