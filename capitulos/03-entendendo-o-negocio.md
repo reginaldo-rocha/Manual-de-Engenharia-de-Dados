@@ -56,7 +56,7 @@ Eles procuram entender:
 Essas respostas orientarão toda a arquitetura da solução.
 
 
-ESTUDO DE CASO
+# 🧩 Estudo de Caso
 
 
 Voltando ao exemplo da **CloudOffice**, sabemos apenas que a empresa perdeu clientes.
