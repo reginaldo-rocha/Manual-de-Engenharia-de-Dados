@@ -46,6 +46,4 @@ Uma arquitetura bem planejada permite que a plataforma de dados cresça junto co
 
 ---
 
-⬅️ **Capítulo anterior:** [Modelagem de Dados](11-modelagem-de-dados.md)
 
-➡️ **Próximo capítulo:** [Qualidade dos Dados](13-qualidade-dos-dados.md)
