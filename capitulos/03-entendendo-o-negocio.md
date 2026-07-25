@@ -2,6 +2,9 @@
 
 # Entendendo o Negócio
 
+<img width="163" height="224" alt="image" src="https://github.com/user-attachments/assets/8aec1dbf-9c1e-4aa4-833a-4224fc7b37b8" />
+
+
 ## Introdução
 
 Uma das maiores diferenças entre um Engenheiro de Dados iniciante e um profissional experiente está na forma como enxergam um projeto.
