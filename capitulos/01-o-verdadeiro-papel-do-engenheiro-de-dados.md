@@ -47,9 +47,9 @@ Elas contratam profissionais capazes de responder perguntas como:
 
 Essas decisões possuem muito mais impacto do que simplesmente escolher uma tecnologia.
 
----
 
-ESTUDO DE CASO
+
+# 🧩 Estudo de Caso
 
 Imagine a empresa fictícia **CloudOffice**, uma plataforma de assinaturas de softwares para pequenas empresas.
 
