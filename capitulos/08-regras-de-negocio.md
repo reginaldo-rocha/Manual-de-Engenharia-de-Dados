@@ -2,6 +2,9 @@
 
 # Regras de Negócio
 
+<img width="173" height="222" alt="image" src="https://github.com/user-attachments/assets/78e6d911-7bda-4065-ba03-8c0a7c616b3e" />
+
+
 ## Introdução
 
 Toda empresa possui regras que definem como seus processos funcionam e como seus dados devem ser interpretados.
