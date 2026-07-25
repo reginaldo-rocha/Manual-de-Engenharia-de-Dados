@@ -45,6 +45,4 @@ Uma boa modelagem transforma dados dispersos em uma estrutura organizada, prepar
 
 ---
 
-⬅️ **Capítulo anterior:** [Trade-offs](10-trade-offs.md)
 
-➡️ **Próximo capítulo:** [Escolhendo a Arquitetura](12-escolhendo-a-arquitetura.md)
