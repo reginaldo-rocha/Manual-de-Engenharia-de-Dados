@@ -34,9 +34,9 @@ A primeira pergunta sempre deve ser:
 
 Somente após compreender essa resposta é possível definir quais tecnologias fazem sentido para o projeto.
 
----
 
-ESTUDO DE CASO
+
+# 🧩 Estudo de Caso
 
 Imagine novamente a empresa fictícia **CloudOffice**.
 
