@@ -63,6 +63,4 @@ Compreender essas regras garante consistência, qualidade e confiança nas infor
 
 ---
 
-⬅️ **Capítulo anterior:** [Fontes de Dados](07-fontes-de-dados.md)
 
-➡️ **Próximo capítulo:** [Decisões de Engenharia](09-decisoes-de-engenharia.md)
