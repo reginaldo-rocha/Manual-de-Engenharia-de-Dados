@@ -65,9 +65,7 @@ Durante a fase de descoberta, algumas perguntas são essenciais:
 
 Essas perguntas reduzem riscos e aumentam a qualidade da solução.
 
----
-
-## Estudo de Caso
+# 🧩 Estudo de Caso
 
 Na **CloudOffice**, a diretoria informou apenas que desejava entender melhor o aumento dos cancelamentos.
 
@@ -112,6 +110,4 @@ No próximo capítulo veremos como transformar essas respostas em requisitos que
 
 ---
 
-⬅️ **Capítulo anterior:** [Stakeholders](04-stakeholders.md)
 
-➡️ **Próximo capítulo:** [Levantamento de Requisitos](06-levantamento-de-requisitos.md)
