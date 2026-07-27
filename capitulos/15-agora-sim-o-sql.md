@@ -1,6 +1,6 @@
 # 📖 Capítulo 15
 
-# Agora Sim, o SQL
+#   SQL
 
 <img width="224" height="219" alt="image" src="https://github.com/user-attachments/assets/146e02a8-dfda-494e-b275-cac50c7a567c" />
 
